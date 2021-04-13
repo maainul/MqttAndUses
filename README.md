@@ -1,6 +1,8 @@
 # MqttAndUses
 Important Links :
 https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/
+Install Mosquitto in linux<br/>
+https://champlnx.blogspot.com/2020/12/installing-mqtt-broker-on-ubuntu-2004.html
 
 ## What is MQTT Protocol?
 MQTT is a lightweight publish/subscribe messaging protocol designed for M2M (machine to machine) telemetry in low bandwidth environments.<br/>
