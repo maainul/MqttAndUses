@@ -1,6 +1,6 @@
 # MqttAndUses
 Important Links :
-https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/
+https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/<br/>
 Install Mosquitto in linux<br/>
 https://champlnx.blogspot.com/2020/12/installing-mqtt-broker-on-ubuntu-2004.html
 
